@@ -18,9 +18,14 @@ var myVar = "Hello, world, happy, newyear!";
 ``` javascript
 var myVar = "Hello, world!";
 ```
+- [x] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [x] Introduce myself to the world
+
 
 
 
 added few headings to index file
 added an image
 added code
+Added a task list
